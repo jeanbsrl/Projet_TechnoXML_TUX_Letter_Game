@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<dictionnaire   
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://myGame/tux"
+    xsi:schemaLocation="http://myGame/tux dico.xsd">
+    
+    <mot niveau="1">rond</mot>
+    <mot niveau="1">café</mot>
+    <mot niveau="1">avec</mot>
+    <mot niveau="1">île</mot>
+    <mot niveau="1">roue</mot>
+    <mot niveau="1">louer</mot>
+    <mot niveau="1">sept</mot>
+    <mot niveau="1">noël</mot>
+    <mot niveau="1">latte</mot>
+    <mot niveau="1">fête</mot>
+    
+    <mot niveau="2">constat</mot>
+    <mot niveau="2">violet</mot>
+    <mot niveau="2">arrêt</mot>
+    <mot niveau="2">marron</mot>
+    <mot niveau="2">tableau</mot>
+    <mot niveau="2">chaise</mot>
+    <mot niveau="2">écran</mot>
+    <mot niveau="2">profil</mot>
+    <mot niveau="2">portable</mot>
+    <mot niveau="2">source</mot>
+    
+    <mot niveau="3">démocratie</mot>
+    <mot niveau="3">allégorie</mot>
+    <mot niveau="3">merveilleux</mot>
+    <mot niveau="3">attendrir</mot>
+    <mot niveau="3">convexité</mot>
+    <mot niveau="3">ouverture</mot>
+    <mot niveau="3">obligation</mot>
+    <mot niveau="3">omniscient</mot>
+    <mot niveau="3">sourd-muet</mot>
+    <mot niveau="3">université</mot>
+    
+    <mot niveau="4">écouteur</mot>
+    <mot niveau="4">escalier</mot>
+    <mot niveau="4">enveloppe</mot>
+    <mot niveau="4">absence</mot>
+    <mot niveau="4">évènement</mot>
+    <mot niveau="4">prodigieux</mot>
+    <mot niveau="4">astronomie</mot>
+    <mot niveau="4">physique</mot>
+    <mot niveau="4">grand-mère</mot>
+    <mot niveau="4">casserole</mot>
+    
+    <mot niveau="5">sérendipité</mot>
+    <mot niveau="5">phallocratie</mot>
+    <mot niveau="5">céphalalgie</mot>
+    <mot niveau="5">irréfragable</mot>
+    <mot niveau="5">misanthrope</mot>
+    <mot niveau="5">ornithorynque</mot>
+    <mot niveau="5">périssodactyle</mot>
+    <mot niveau="5">orthographe</mot>
+    <mot niveau="5">entracte</mot>
+    <mot niveau="5">agoraphobie</mot>
+    
+    <mot niveau="6">avenir</mot>
+    <mot niveau="6">couteau</mot>
+    <mot niveau="6">poubelle</mot>
+    <mot niveau="6">clavier</mot>
+    <mot niveau="6">pantalon</mot>
+    <mot niveau="6">parquet</mot>
+    <mot niveau="6">avocat</mot>
+    <mot niveau="6">manteau</mot>
+    <mot niveau="6">ovation</mot>
+    <mot niveau="6">affiche</mot>
+    
+</dictionnaire>

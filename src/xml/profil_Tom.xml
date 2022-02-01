@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux profil.xsd">
+    <nom>Tom</nom>
+    <avatar>naruto.jpg</avatar>
+    <anniversaire>1997-12-21</anniversaire>
+    <parties>
+        <partie date="2021-12-14">
+            <temps>8</temps>
+            <mot niveau="2">marron</mot>
+        </partie>
+        <partie date="2021-12-14">
+            <temps>16</temps>
+            <mot niveau="5">entracte</mot>
+        </partie>
+    <partie date="2021-12-14">
+            <temps>4</temps>
+            <mot niveau="1">café</mot>
+        </partie>
+    <partie date="2021-12-14">
+            <temps>9</temps>
+            <mot niveau="2">profil</mot>
+        </partie>
+    <partie date="2021-12-14">
+            <temps>15</temps>
+            <mot niveau="4">grand-mère</mot>
+        </partie>
+    </parties>
+</profil>

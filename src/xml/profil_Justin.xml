@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profil xmlns="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux profil.xsd">
+    <nom>Justin</nom>
+    <avatar>sasuke.jpg</avatar>
+    <anniversaire>1999-06-17</anniversaire>
+    <parties>
+        <partie date="2021-12-14" trouvé="66%">
+            <mot niveau="3">convexité</mot>
+        </partie>
+        <partie date="2021-12-14" trouvé="0%">
+            <mot niveau="3">convexité</mot>
+        </partie>
+    <partie date="2021-12-14" trouvé="25%">
+            <mot niveau="4">escalier</mot>
+        </partie>
+    <partie date="2021-12-14" trouvé="0%">
+            <mot niveau="1">sept</mot>
+        </partie>
+        <partie date="2021-12-14">
+            <temps>7</temps>
+            <mot niveau="1">sept</mot>
+        </partie>
+    <partie date="2021-12-14">
+            <temps>12</temps>
+            <mot niveau="3">attendrir</mot>
+        </partie>
+    </parties>
+</profil>
